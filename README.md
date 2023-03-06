@@ -46,3 +46,4 @@ git push origin feature/thewoowon
 
 | 문제 이름 | 문제 링크 | 난이도 | 풀이 링크 |
 | --- | --- | --- | --- |
+|호텔 객실| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 레벨2| - |
