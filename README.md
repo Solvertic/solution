@@ -1,6 +1,6 @@
 # 🌈 솔버틱, 문제 해결 결과를 공유하는 레포입니다.
 
-### 👻 솔버틱 공유 방법
+## 👻 솔버틱 공유 방법
 
 레포를 먼저 클론하세요.
 
@@ -42,10 +42,11 @@ git push origin feature/thewoowon
 이제 웹에서 나의 브랜치로 체크아웃한 뒤 PR을 생성하세요.
 다 함께 리뷰 후에 머지하겠습니다.
 
-### 📚 문제 목록
+## 📚 문제 목록
 
 | 문제 이름 | 문제 링크 | 난이도 | 풀이 링크 |
 | --- | --- | --- | --- |
 |호텔 객실| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 레벨2| - |
 |이모티콘 할인행사| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | 레벨2| - |
 |길 찾기 게임| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 레벨3| - |
+|마법의 엘리베이터| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 레벨2| - |
