@@ -44,9 +44,10 @@ git push origin feature/thewoowon
 
 ## 📚 문제 목록
 
-| 문제 이름 | 문제 링크 | 난이도 | 풀이 링크 |
+| 문제 이름 | 문제 링크 | 난이도 | 정답률 |
 | --- | --- | --- | --- |
-|호텔 객실| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 레벨2| - |
-|이모티콘 할인행사| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | 레벨2| - |
-|길 찾기 게임| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 레벨3| - |
-|마법의 엘리베이터| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 레벨2| - |
+|호텔 대실| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 레벨2| 38% |
+|이모티콘 할인행사| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | 레벨2| 29% |
+|길 찾기 게임| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 레벨3| 36% |
+|마법의 엘리베이터| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 레벨2| 38% |
+|유사 칸토어 비트열| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/148652) | 레벨2| 18% |
