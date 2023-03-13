@@ -51,3 +51,5 @@ git push origin feature/thewoowon
 |길 찾기 게임| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 레벨3| 36% |
 |마법의 엘리베이터| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 레벨2| 38% |
 |유사 칸토어 비트열| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/148652) | 레벨2| 18% |
+|뒤에 있는 큰 수 찾기| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | 레벨2|  |
+|무지의 먹방 라이브| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42891) | 레벨4| 20% |
