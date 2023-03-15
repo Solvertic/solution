@@ -55,4 +55,4 @@ git push origin feature/thewoowon
 |무지의 먹방 라이브| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42891) | 레벨4| 20% |
 |도둑질| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | 레벨4| 36% |
 |올바른 괄호의 개수| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12929) | 레벨4| 28% |
-|징거다리| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | 레벨4| 25% |
+|징검다리| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | 레벨4| 25% |
