@@ -57,7 +57,8 @@ git push origin feature/thewoowon
 |올바른 괄호의 개수| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12929) | 레벨4| 28% |
 |징검다리| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | 레벨4| 25% |
 |쿠키구입| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49995) | 레벨4| 28% |
-|단어퍼즐| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12983) | 레벨4| 20% |
-|리코쳇로봇| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | 레벨2| 20% |
-|숫자변환하기| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | 레벨2| 48% |
+|단어 퍼즐| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12983) | 레벨4| 20% |
+|리코쳇 로봇| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | 레벨2| 20% |
+|숫자 변환하기| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | 레벨2| 48% |
+|가장 긴 팰린드롬| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | 레벨3| 41% |
 
