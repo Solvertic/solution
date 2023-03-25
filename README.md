@@ -61,6 +61,6 @@ git push origin feature/thewoowon
 |리코쳇 로봇| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | 레벨2| 20% |
 |숫자 변환하기| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | 레벨2| 48% |
 |가장 긴 팰린드롬| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | 레벨3| 41% |
-|청소년 상어: 삼성SW역량테스트| [문제](https://www.acmicpc.net/problem/19236) | 레벨3| 41% |
-|마법사 상어와 토네이도: 삼성SW역량테스트| [문제](https://www.acmicpc.net/workbook/view/1152) | 레벨3| 41% |
+|청소년 상어: 삼성SW역량테스트| [문제](https://www.acmicpc.net/problem/19236) | 레벨3| 64.350% |
+|마법사 상어와 토네이도: 삼성SW역량테스트| [문제](https://www.acmicpc.net/workbook/view/1152) | 레벨3| 70.357% |
 
