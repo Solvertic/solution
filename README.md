@@ -56,3 +56,13 @@ git push origin feature/thewoowon
 |도둑질| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | 레벨4| 36% |
 |올바른 괄호의 개수| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12929) | 레벨4| 28% |
 |징검다리| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | 레벨4| 25% |
+|쿠키구입| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49995) | 레벨4| 28% |
+|단어 퍼즐| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12983) | 레벨4| 20% |
+|리코쳇 로봇| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | 레벨2| 20% |
+|숫자 변환하기| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | 레벨2| 48% |
+|가장 긴 팰린드롬| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | 레벨3| 41% |
+|청소년 상어: 삼성SW역량테스트| [문제](https://www.acmicpc.net/problem/19236) | 레벨3| 64.350% |
+|마법사 상어와 토네이도: 삼성SW역량테스트| [문제](https://www.acmicpc.net/workbook/view/1152) | 레벨3| 70.357% |
+|섬 연결하기| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | 레벨3| |
+|점찍기| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | 레벨2|  |
+

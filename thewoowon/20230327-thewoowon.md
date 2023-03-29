@@ -1,0 +1,58 @@
+# 솔루션
+
+## 통과한 코드
+
+<자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기>
+
+```mysql
+SELECT CAR_TYPE, COUNT(*) AS CARS
+FROM CAR_RENTAL_COMPANY_CAR
+WHERE OPTIONS 
+REGEXP '통풍시트|열선시트|가죽시트'
+GROUP BY CAR_TYPE
+ORDER BY CAR_TYPE
+```
+
+<조건에 맞는 도서와 저자 리스트 출력하기>
+
+```mysql
+SELECT BOOK.BOOK_ID, AUTHOR.AUTHOR_NAME, date_format(BOOK.PUBLISHED_DATE, '%Y-%m-%d') AS PUBLISHED_DATE
+FROM BOOK AS BOOK
+LEFT OUTER JOIN AUTHOR AS AUTHOR ON BOOK.AUTHOR_ID = AUTHOR.AUTHOR_ID
+WHERE CATEGORY='경제'
+ORDER BY BOOK.PUBLISHED_DATE
+```
+
+```mysql
+SELECT BOARD_ID,WRITER_ID,TITLE,PRICE,
+    CASE WHEN STATUS = 'DONE' THEN '거래완료'
+         WHEN STATUS = 'RESERVED' THEN '예약중'
+         WHEN STATUS = 'SALE' THEN '판매중'
+         END AS STATUS
+FROM USED_GOODS_BOARD
+WHERE CREATED_DATE='2022-10-05'
+ORDER BY BOARD_ID DESC
+```
+
+```mysql
+    SELECT CAR_ID AS CAR_ID,
+        ROUND(AVG(DATEDIFF(END_DATE,START_DATE)+1),1) AS AVERAGE_DURATION
+    FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY
+    GROUP BY CAR_ID
+    HAVING AVERAGE_DURATION >=7
+    ORDER BY AVERAGE_DURATION DESC,CAR_ID DESC
+```
+
+## 풀이 해설
+
+무난한 2점대 문제였습니다!
+두 분 모두 무난하게 통과하셨을 것 같습니다.
+오늘은 몸풀기이고 내일부터는 레벨 3 문제를 위주로 풀어보겠습니다.
+
+## 부족한 점
+
+성실하지 못한 점이 있었습니다.
+반성하겠습니다..ㅜㅜ
+
+그리고 다음에 같이 밥 한 번 같이 먹어용
+제가 맛있는 곳으로 준비하겠습니다ㅎㅎ
