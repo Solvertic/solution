@@ -1,6 +1,6 @@
 # 🌈 솔버틱, 문제 해결 결과를 공유하는 레포입니다.
 
-### 👻 솔버틱 공유 방법
+## 👻 솔버틱 공유 방법
 
 레포를 먼저 클론하세요.
 
@@ -42,8 +42,20 @@ git push origin feature/thewoowon
 이제 웹에서 나의 브랜치로 체크아웃한 뒤 PR을 생성하세요.
 다 함께 리뷰 후에 머지하겠습니다.
 
-### 📚 문제 목록
+## 📚 문제 목록
 
-| 문제 이름 | 문제 링크 | 난이도 | 풀이 링크 |
+| 문제 이름 | 문제 링크 | 난이도 | 정답률 |
 | --- | --- | --- | --- |
-|호텔 객실| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 레벨2| - |
+|호텔 대실| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | 레벨2| 38% |
+|이모티콘 할인행사| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | 레벨2| 29% |
+|길 찾기 게임| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | 레벨3| 36% |
+|마법의 엘리베이터| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 레벨2| 38% |
+|유사 칸토어 비트열| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/148652) | 레벨2| 18% |
+|뒤에 있는 큰 수 찾기| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | 레벨2|  |
+|무지의 먹방 라이브| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42891) | 레벨4| 20% |
+|도둑질| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | 레벨4| 36% |
+|올바른 괄호의 개수| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12929) | 레벨4| 28% |
+|징검다리| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | 레벨4| 25% |
+|쿠키구입| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49995) | 레벨4| 28% |
+|단어퍼즐| [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12983) | 레벨4| 20% |
+
